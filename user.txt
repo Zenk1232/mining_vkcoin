@@ -1,6 +1,6 @@
 {
-	"token":"5VFSC3HrPKPrnWXb",
-	"secret":"Qif0Btnw",
+	"token":"TOKEN",
+	"secret":"SECRET",
 	"v": 1.0,
 	"key":"saa"
 }
